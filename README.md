@@ -1,6 +1,6 @@
 # Enes Doğru
 
-Full-stack web geliştiricisiyim. Arayüz tarafında React ve Next.js, sunucu tarafında .NET ve Node.js ile çalışıyorum. Okunabilir kod yazmaya ve uygulamaların hızlı çalışmasına önem veriyorum; arayüz tasarımı da yakından ilgilendiğim bir alan.
+
 
 ## Teknolojiler
 
