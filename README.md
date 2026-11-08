@@ -12,12 +12,8 @@
 | Mobil      | Flutter, Dart                                                            |
 | Araçlar    | Docker, Git, Vite, Figma, Postman                                        |
 
-## Projeler
 
-- [enes-me-portfolio](https://github.com/enes-1/enes-me-portfolio) — Kişisel portfolyo sitem.
-
-<!-- Öne çıkan 2–3 projeni aynı formatta buraya ekleyebilirsin. -->
 
 ## İletişim
 
-Yeni projeler, iş birlikleri ve sorularınız için [enesdogru747@gmail.com](mailto:enesdogru747@gmail.com) adresine yazabilir ya da [LinkedIn](https://www.linkedin.com/in/enes-doğru-3a9ba0281/) üzerinden ulaşabilirsiniz.
+Yeni projeler, iş birlikleri ve sorularınız için [enesdogru747@gmail.com](mailto:enesdogru747@gmail.com) adresine yazabilirsiniz
